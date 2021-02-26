@@ -1,0 +1,17 @@
+.\objects\mpl.o: ..\..\app\mpu9250\mllite\mpl.c
+.\objects\mpl.o: ..\..\app\mpu9250\mllite\storage_manager.h
+.\objects\mpl.o: ..\..\app\mpu9250\driver\include\mltypes.h
+.\objects\mpl.o: ..\..\app\mpu9250\driver\include\stdint_invensense.h
+.\objects\mpl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mpl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\mpl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\objects\mpl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\mpl.o: ..\..\components\libraries\util\nordic_common.h
+.\objects\mpl.o: ..\..\app\mpu9250\driver\include\log.h
+.\objects\mpl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\mpl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\mpl.o: ..\..\app\mpu9250\mllite\mpl.h
+.\objects\mpl.o: ..\..\app\mpu9250\mllite\start_manager.h
+.\objects\mpl.o: ..\..\app\mpu9250\mllite\data_builder.h
+.\objects\mpl.o: ..\..\app\mpu9250\mllite\results_holder.h
+.\objects\mpl.o: ..\..\app\mpu9250\driver\include\mlinclude.h

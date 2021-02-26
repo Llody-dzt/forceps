@@ -1,0 +1,15 @@
+.\objects\empl_outputs.o: ..\..\app\mpu9250\eMPL-hal\eMPL_outputs.c
+.\objects\empl_outputs.o: ..\..\app\mpu9250\eMPL-hal\eMPL_outputs.h
+.\objects\empl_outputs.o: ..\..\app\mpu9250\driver\include\mltypes.h
+.\objects\empl_outputs.o: ..\..\app\mpu9250\driver\include\stdint_invensense.h
+.\objects\empl_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\empl_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\empl_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\objects\empl_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\empl_outputs.o: ..\..\components\libraries\util\nordic_common.h
+.\objects\empl_outputs.o: ..\..\app\mpu9250\mllite\ml_math_func.h
+.\objects\empl_outputs.o: ..\..\app\mpu9250\driver\include\mlmath.h
+.\objects\empl_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\empl_outputs.o: ..\..\app\mpu9250\mllite\start_manager.h
+.\objects\empl_outputs.o: ..\..\app\mpu9250\mllite\data_builder.h
+.\objects\empl_outputs.o: ..\..\app\mpu9250\mllite\results_holder.h

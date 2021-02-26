@@ -1,0 +1,13 @@
+.\objects\log_stm32.o: ..\..\app\mpu9250\driver\stm32L\log_stm32.c
+.\objects\log_stm32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\log_stm32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\log_stm32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\log_stm32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\log_stm32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\log_stm32.o: ..\..\app\mpu9250\driver\stm32L\packet.h
+.\objects\log_stm32.o: ..\..\app\mpu9250\driver\include\mltypes.h
+.\objects\log_stm32.o: ..\..\app\mpu9250\driver\include\stdint_invensense.h
+.\objects\log_stm32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\objects\log_stm32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\log_stm32.o: ..\..\components\libraries\util\nordic_common.h
+.\objects\log_stm32.o: ..\..\app\mpu9250\driver\include\log.h
